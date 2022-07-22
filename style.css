@@ -1,0 +1,42 @@
+h1{
+    color:#3c4b4e;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 45px;
+    text-decoration: underline;
+}
+body {
+    background: #D3CEDF;
+    font-family: Calibri, sans-serif;
+}
+#container {
+    text-align: center
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 2em;
+    margin: 0 auto;
+}
+
+colgroup,tbody {
+    border: solid medium;
+}
+
+td {
+    border: solid thin;
+    height: 1.4em;
+    width: 1.4em;
+    text-align: center;
+    padding: 0;
+}
+.btn{
+    background-color: #aac9c8;
+    margin-top: 15px;
+    font-size: 1.5em;
+    font-weight : bold;
+    border-radius: 12px;
+}
+.padd {
+    padding-bottom: 20px;
+}
